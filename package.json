@@ -1,0 +1,20 @@
+{
+  "name": "todowithdb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7",
+    "swagger": "^0.7.5"
+  }
+}
