@@ -1,7 +1,7 @@
 {
   "name": "todowithdb",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "dist/app.js",
   "scripts": {
     "start": "nodemon ."
   },
